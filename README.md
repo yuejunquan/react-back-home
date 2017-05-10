@@ -5,7 +5,7 @@
 - React Native Android
 
 ## 安装步骤：
-- 1、运行 npm install react-back-home
+- 1、运行 npm install react-back-home --save
 - 2、运行 npm run configureReactBackHome
 
 ## 使用方法：
@@ -14,4 +14,4 @@
 
 ## Github地址：
 - https://github.com/yuejunquan/react-back-home
-- 如果此插件帮助了您，顺便给颗星星
+- 如果此插件帮助了您，请顺便给颗星星
